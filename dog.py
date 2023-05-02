@@ -7,3 +7,6 @@ class Dog:
     dog.y = 100
     dog.height = 64
     dog.width = 64
+    
+    
+    hello
